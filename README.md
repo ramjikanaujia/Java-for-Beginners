@@ -1,1 +1,2 @@
-# Java-for-Beginners
+# Java-programming-from-scratch
+Java programming from scratch
